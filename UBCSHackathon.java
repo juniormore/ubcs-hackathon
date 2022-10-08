@@ -2,7 +2,7 @@
 * Code for the UB CS Hackathon 2022 */
 public class UBCSHackathon{
     public static void main(String[] args){
-        String[] arr = FizzBuzz(50);
+        String[] arr = FizzBuzz(20);
         for(int i = 0; i < arr.length; i++){
             System.out.println(arr[i]);
         }
